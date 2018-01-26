@@ -1,0 +1,53 @@
+<style>
+  header {
+    border-bottom: 1.5px solid #6a60a9;
+    border-left: 30px;
+    padding: 50px;
+    padding-left: 400px;
+  }
+
+  header div {
+    text-align: center;
+  }
+
+  nav p {
+    text-align:center;
+  }
+
+  body {
+    background-color: #aacfd0;
+  }
+
+  span img {
+    width: 170px;
+    height: 170px;
+    border-radius: 85px;
+  }
+
+  nav {
+    background-color: #aacfd0;
+    z-index: 9999;
+    position: fixed;
+    border-right: 1.5px solid #6a60a9;
+    float : left;
+    height: 1000px;
+    padding-left: 105px;
+    padding-right: 105px;
+    padding-top: 200px;
+  }
+
+  article {
+    font-size: 150%;
+    float: left;
+    padding-left: 600px;
+    padding-top: 150px;
+  }
+
+  article h3 {
+    color : gray;
+  }
+
+  a:link { color: black; text-decoration: none;}
+  a:visited { color: black; text-decoration: none;}
+  a:hover { color: #881600; text-decoration: none;}
+</style>
